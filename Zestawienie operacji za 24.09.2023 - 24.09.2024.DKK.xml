@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<account-history>
+   <search>
+      <account>30144011720000000005796172</account>
+      <date since="2023-09-24" to="2024-09-24"/>
+      <filtering>Wszystkie</filtering>
+   </search>
+   <operations>
+      <operation>
+         <order-date>2024-06-25</order-date>
+         <exec-date>2024-06-25</exec-date>
+         <type>Przelew z rachunku</type>
+         <description>Rachunek odbiorcy : 19102024720000660203729605 Nazwa odbiorcy :  RYSZARD CZEKAJ Adres odbiorcy :  PLAC ZWYCIĘSTWA 8 M.24 44-300 WODZISŁAW ŚLĄSKI Tytuł :  PRZELEW</description>
+         <amount curr="DKK">-66.41</amount>
+         <ending-balance curr="DKK">+0.00</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-06-01</order-date>
+         <exec-date>2024-05-31</exec-date>
+         <type>Podatek od odsetek</type>
+         <description>PODATEK OD ODSETEK KAPITAŁOWYCH</description>
+         <amount curr="DKK">-0.01</amount>
+         <ending-balance curr="DKK">+66.41</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-06-01</order-date>
+         <exec-date>2024-05-31</exec-date>
+         <type>Naliczenie odsetek</type>
+         <description>KAPITALIZACJA ODSETEK</description>
+         <amount curr="DKK">+0.01</amount>
+         <ending-balance curr="DKK">+66.42</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-05-31</order-date>
+         <exec-date>2024-05-31</exec-date>
+         <type>Przelew zagraniczny i walutowy</type>
+         <description>Rachunek odbiorcy : LT773250049791461533 Nazwa odbiorcy :  RYSZARD CZEKAJ Tytuł :  TIC-TAC-TOE MŁ RP 274/97/I SP9RYC G EONERD.EU Kwota w walucie oryginalnej : 321.66 Kurs przewalutowania : 1.0000 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR24IP07785001DS</description>
+         <amount curr="DKK">-321.66</amount>
+         <ending-balance curr="DKK">+66.41</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-05-31</order-date>
+         <exec-date>2024-05-31</exec-date>
+         <type>Przelew z rachunku</type>
+         <description>Rachunek odbiorcy : 19102024720000660203729605 Nazwa odbiorcy :  RYSZARD WIESŁAW CZEKAJ Tytuł :  PRZELEW ŚRODKÓW TIC-TAC-TOE GEONERD.EU UNDERDOT SP9RYC</description>
+         <amount curr="DKK">-321.66</amount>
+         <ending-balance curr="DKK">+388.07</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-05-31</order-date>
+         <exec-date>2024-05-31</exec-date>
+         <type>Przelew zagraniczny i walutowy</type>
+         <description>Rachunek odbiorcy : LT773250049791461533 Nazwa odbiorcy :  RYSZARD CZEKAJ Tytuł :  TIC-TAC-TOE MŁ RP 274/97/I SP9RYC H TTPS://RYCHOO.THEUNIXPLACE.COM/DKK / NA-KREDYT-POD-STRZECHA-RADOM- POL AND-SP9RC++.. Kwota w walucie oryginalnej : 111.33 Kurs przewalutowania : 1.0000 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR24IP07698685DS</description>
+         <amount curr="DKK">-111.33</amount>
+         <ending-balance curr="DKK">+709.73</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-05-30</order-date>
+         <exec-date>2024-05-31</exec-date>
+         <type>Zobowiązania Publiczno Prawne</type>
+         <description>Rachunek odbiorcy : 30144011720000000005796172 Nazwa odbiorcy :  POWSZECHNA KASA OSZCZĘDNOŚCI BANK P OLSKI S.A. UL.PUŁAWSKA 15 00- 975 W Adres odbiorcy :  ARSZAWA Tytuł :  ZALICZKA NA PODATEK I UBEZP. Kwota w walucie oryginalnej : 85.84 Kurs przewalutowania : 0.5708 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR24SP07520832DR</description>
+         <amount curr="DKK">-150.39</amount>
+         <ending-balance curr="DKK">+821.06</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-05-30</order-date>
+         <exec-date>2024-05-31</exec-date>
+         <type>Opłata</type>
+         <description>OPŁATY SR24SP07520832DR</description>
+         <amount curr="DKK">-45.62</amount>
+         <ending-balance curr="DKK">+971.45</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-05-30</order-date>
+         <exec-date>2024-05-31</exec-date>
+         <type>Przelew zagraniczny i walutowy</type>
+         <description>Rachunek nadawcy : DK6502164069172229 Nazwa nadawcy :  UDBETALING DANMARK KONGENS VENGE 8 DK-3400 HILLER Adres nadawcy :  OD Tytuł :  UDBETALING VIA NEMKONTO VEDRORENDE SOCIAL PENSION (FOLKEPENSION M.M.) Prowizja : 26.00 Kwota w walucie oryginalnej : 717.09 Kurs przewalutowania : 1.0000 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR24SP07520832DR</description>
+         <amount curr="DKK">+717.09</amount>
+         <ending-balance curr="DKK">+1017.07</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-05-17</order-date>
+         <exec-date>2024-05-17</exec-date>
+         <type>Przelew z rachunku</type>
+         <description>Rachunek odbiorcy : 12102010680000190204581890 Nazwa odbiorcy :  KRAJOWY INTEGRATOR PŁATNOŚCI S.A. PLAC ANDERSA 3, 17P. Adres odbiorcy :  61-894 POZNAŃ Tytuł :  /OPT/X/////TR-3JPP-CG4411X</description>
+         <amount curr="DKK">-177.58</amount>
+         <ending-balance curr="DKK">+299.98</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-05-07</order-date>
+         <exec-date>2024-05-07</exec-date>
+         <type>Przelew zagraniczny i walutowy</type>
+         <description>Rachunek odbiorcy : LT773250049791461533 Nazwa odbiorcy :  RYSZARD CZEKAJ Tytuł :  TIC-TAC-TOE RYCHOO.THEUNIXPLACE.COM /YES/ZAMKI- W-POLSCE.KML Kwota w walucie oryginalnej : 1111.11 Kurs przewalutowania : 1.0000 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR24IP06463626DS</description>
+         <amount curr="DKK">-1111.11</amount>
+         <ending-balance curr="DKK">+477.56</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-04-29</order-date>
+         <exec-date>2024-04-29</exec-date>
+         <type>Zobowiązania Publiczno Prawne</type>
+         <description>Rachunek odbiorcy : 30144011720000000005796172 Nazwa odbiorcy :  POWSZECHNA KASA OSZCZĘDNOŚCI BANK P OLSKI S.A. UL.PUŁAWSKA 15 00- 975 W Adres odbiorcy :  ARSZAWA Tytuł :  ZALICZKA NA PODATEK I UBEZP. Kwota w walucie oryginalnej : 87.41 Kurs przewalutowania : 0.5796 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR24SP05851500DR</description>
+         <amount curr="DKK">-150.81</amount>
+         <ending-balance curr="DKK">+1588.67</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-04-29</order-date>
+         <exec-date>2024-04-29</exec-date>
+         <type>Opłata</type>
+         <description>OPŁATY SR24SP05851500DR</description>
+         <amount curr="DKK">-44.86</amount>
+         <ending-balance curr="DKK">+1739.48</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-04-29</order-date>
+         <exec-date>2024-04-29</exec-date>
+         <type>Przelew zagraniczny i walutowy</type>
+         <description>Rachunek nadawcy : DK6502164069172229 Nazwa nadawcy :  UDBETALING DANMARK KONGENS VENGE 8 DK-3400 HILLER Adres nadawcy :  OD Tytuł :  UDBETALING VIA NEMKONTO VEDRORENDE SOCIAL PENSION (FOLKEPENSION M.M.) Prowizja : 26.00 Kwota w walucie oryginalnej : 717.09 Kurs przewalutowania : 1.0000 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR24SP05851500DR</description>
+         <amount curr="DKK">+717.09</amount>
+         <ending-balance curr="DKK">+1784.34</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-04-20</order-date>
+         <exec-date>2024-04-20</exec-date>
+         <type>Przelew na konto</type>
+         <description>Rachunek nadawcy : 19102024720000660203729605 Nazwa nadawcy :  RYSZARD WIESŁAW CZEKAJ Adres nadawcy :  UL. PLAC ZWYCIĘSTWA 8 M.24 44-300 WODZISŁAW ŚLĄSKI Tytuł :  PRZELEW ŚRODKÓW HTTP://89.58.17.240 /LMS/?M=NETDEVMAP</description>
+         <amount curr="DKK">+999.99</amount>
+         <ending-balance curr="DKK">+1067.25</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-04-02</order-date>
+         <exec-date>2024-04-02</exec-date>
+         <type>Przelew z rachunku</type>
+         <description>Rachunek odbiorcy : 19102024720000660203729605 Nazwa odbiorcy :  RYSZARD WIESŁAW CZEKAJ Tytuł :  PRZELEW ŚRODKÓW DANSYSTEM EUROPE (SP9RYC)</description>
+         <amount curr="DKK">-555.55</amount>
+         <ending-balance curr="DKK">+67.26</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-03-26</order-date>
+         <exec-date>2024-03-26</exec-date>
+         <type>Zobowiązania Publiczno Prawne</type>
+         <description>Rachunek odbiorcy : DK6502164069172229 Nazwa odbiorcy :  POWSZECHNA KASA OSZCZĘDNOŚCI BANK P OLSKI S.A. UL.PU Adres odbiorcy :  ŁAWSKA 15 00-975 WARSZAWA Tytuł :  ZALICZKA NA PODATEK I UBEZP. Kwota w walucie oryginalnej : 87.29 Kurs przewalutowania : 0.5778 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR24SP04130036DR</description>
+         <amount curr="DKK">-151.07</amount>
+         <ending-balance curr="DKK">+622.81</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-03-26</order-date>
+         <exec-date>2024-03-26</exec-date>
+         <type>Opłata</type>
+         <description>KOSZTY SR24SP04130036DR</description>
+         <amount curr="DKK">-45.00</amount>
+         <ending-balance curr="DKK">+773.88</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-03-26</order-date>
+         <exec-date>2024-03-26</exec-date>
+         <type>Przelew zagraniczny i walutowy</type>
+         <description>Rachunek nadawcy : DK6502164069172229 Nazwa nadawcy :  UDBETALING DANMARK KONGENS VENGE 8 DK-3400 HILLER Adres nadawcy :  OD Tytuł :  UDBETALING VIA NEMKONTO VEDRORENDE SOCIAL PENSION (FOLKEPENSION M.M.) Kwota w walucie oryginalnej : 717.09 Kurs przewalutowania : 1.0000 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR24SP04130036DR</description>
+         <amount curr="DKK">+717.09</amount>
+         <ending-balance curr="DKK">+818.88</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-03-22</order-date>
+         <exec-date>2024-03-22</exec-date>
+         <type>Prowizja</type>
+         <description>PROWIZJA PRZEL. WALUT. WYCH.</description>
+         <amount curr="DKK">-1.77</amount>
+         <ending-balance curr="DKK">+101.79</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-03-22</order-date>
+         <exec-date>2024-03-22</exec-date>
+         <type>Przelew z rachunku</type>
+         <description>Rachunek odbiorcy : 89706500020651186021040001 Nazwa odbiorcy :  RYSZARD WIESŁAW CZEKAJ Tytuł :  PRZELEW ŚRODKÓW TIC-TAC-TOE ZA CO DOKŁADNIE PŁACĘ BO NIE ROZUMIEM TEGO SMS&apos;A Z 09:06???</description>
+         <amount curr="DKK">-5.91</amount>
+         <ending-balance curr="DKK">+103.56</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-03-14</order-date>
+         <exec-date>2024-03-14</exec-date>
+         <type>Prowizja</type>
+         <description>PROWIZJA PRZEL. WALUT. WYCH.</description>
+         <amount curr="DKK">-1.79</amount>
+         <ending-balance curr="DKK">+109.47</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-03-14</order-date>
+         <exec-date>2024-03-14</exec-date>
+         <type>Przelew z rachunku</type>
+         <description>Rachunek odbiorcy : 95124069601526010000003992 Nazwa odbiorcy :  MIASTO WODZISŁAW ŚLĄSKI Adres odbiorcy :  BOGUMIŃSKA 4, 44-300 WODZISŁW ŚLĄSKI Tytuł :  CZEKAJ RYSZARD UL. PL. ZWYCIĘSTWA 8/24, WODZISŁAW ŚLĄSKI OPŁATY MIESIĘCZNE - CZYNSZ</description>
+         <amount curr="DKK">-449.28</amount>
+         <ending-balance curr="DKK">+111.26</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-02-28</order-date>
+         <exec-date>2024-02-28</exec-date>
+         <type>Zobowiązania Publiczno Prawne</type>
+         <description>Rachunek odbiorcy : DK6502164069172229 Nazwa odbiorcy :  POWSZECHNA KASA OSZCZĘDNOŚCI BANK P OLSKI S.A. UL.PU Adres odbiorcy :  ŁAWSKA 15 00-975 WARSZAWA Tytuł :  ZALICZKA NA PODATEK I UBEZP. Kwota w walucie oryginalnej : 87.28 Kurs przewalutowania : 0.5777 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR24SP02704394DR</description>
+         <amount curr="DKK">-151.08</amount>
+         <ending-balance curr="DKK">+560.54</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-02-28</order-date>
+         <exec-date>2024-02-28</exec-date>
+         <type>Opłata</type>
+         <description>KOSZTY SR24SP02704394DR</description>
+         <amount curr="DKK">-45.01</amount>
+         <ending-balance curr="DKK">+711.62</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-02-28</order-date>
+         <exec-date>2024-02-28</exec-date>
+         <type>Przelew zagraniczny i walutowy</type>
+         <description>Rachunek nadawcy : DK6502164069172229 Nazwa nadawcy :  UDBETALING DANMARK KONGENS VENGE 8 DK-3400 HILLER Adres nadawcy :  OD Tytuł :  UDBETALING VIA NEMKONTO VEDRORENDE SOCIAL PENSION (FOLKEPENSION M.M.) Kwota w walucie oryginalnej : 717.09 Kurs przewalutowania : 1.0000 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR24SP02704394DR</description>
+         <amount curr="DKK">+717.09</amount>
+         <ending-balance curr="DKK">+756.63</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-02-19</order-date>
+         <exec-date>2024-02-19</exec-date>
+         <type>Opłata</type>
+         <description>KOSZTY SR24IP02389846DS</description>
+         <amount curr="DKK">-42.93</amount>
+         <ending-balance curr="DKK">+39.54</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-02-19</order-date>
+         <exec-date>2024-02-19</exec-date>
+         <type>Przelew zagraniczny i walutowy</type>
+         <description>Rachunek odbiorcy : DK3520005908860685 Nazwa odbiorcy :  NORDEA BANK DANMARK A/S SAEBYVEJ 3, DK-4070KIRKE HYLLINGE Tytuł :  CPR-NR. 030270-2683 HTTPS://RYCHOO. THEUNIXPLACE.COM/GEONERD/EU/ SOFI 2679.53.185 NIP: 647-149-85-92 REGO N 273553687 Kwota w walucie oryginalnej : 111.11 Kurs przewalutowania : 1.0000 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR24IP02389846DS</description>
+         <amount curr="DKK">-111.11</amount>
+         <ending-balance curr="DKK">+82.47</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-02-18</order-date>
+         <exec-date>2024-02-18</exec-date>
+         <type>Przelew z rachunku</type>
+         <description>Rachunek odbiorcy : 76102014620000710203553401 Nazwa odbiorcy :  AUTOPAY SA UL. POWSTAŃCÓW WARSZAWY 6 Adres odbiorcy :  81-718 SOPOT Tytuł :  /OPT/X///// BPID:AKEYKU4K6C U-03-12 -1271114-0900324P6</description>
+         <amount curr="DKK">-203.87</amount>
+         <ending-balance curr="DKK">+193.58</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-02-18</order-date>
+         <exec-date>2024-02-18</exec-date>
+         <type>Przelew z rachunku</type>
+         <description>Rachunek odbiorcy : 76102014620000710203553401 Nazwa odbiorcy :  AUTOPAY SA UL. POWSTAŃCÓW WARSZAWY 6 Adres odbiorcy :  81-718 SOPOT Tytuł :  /OPT/X///// BPID:A9GZCKD7JR PLAY - FAKTURA</description>
+         <amount curr="DKK">-55.42</amount>
+         <ending-balance curr="DKK">+397.45</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-02-18</order-date>
+         <exec-date>2024-02-18</exec-date>
+         <type>Przelew z rachunku</type>
+         <description>Rachunek odbiorcy : 76102014620000710203553401 Nazwa odbiorcy :  AUTOPAY SA UL. POWSTAŃCÓW WARSZAWY 6 Adres odbiorcy :  81-718 SOPOT Tytuł :  /OPT/X///// BPID:AYVSZIFPYD ORANGE ON-LINE: PLATNOSC NA KWOTE 177,92</description>
+         <amount curr="DKK">-316.63</amount>
+         <ending-balance curr="DKK">+452.87</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-02-01</order-date>
+         <exec-date>2024-02-01</exec-date>
+         <type>Przelew z rachunku</type>
+         <description>Rachunek odbiorcy : 19102024720000660203729605 Nazwa odbiorcy :  RYSZARD CZEKAJ Adres odbiorcy :  PLAC ZWYCIĘSTWA 8 M.24 44-300 WODZISŁAW ŚLĄSKI Tytuł :  PRZELEW WŁASNY</description>
+         <amount curr="DKK">-333.33</amount>
+         <ending-balance curr="DKK">+769.50</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-02-01</order-date>
+         <exec-date>2024-01-31</exec-date>
+         <type>Podatek od odsetek</type>
+         <description>PODATEK OD ODSETEK KAPITAŁOWYCH</description>
+         <amount curr="DKK">-0.01</amount>
+         <ending-balance curr="DKK">+1102.83</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-02-01</order-date>
+         <exec-date>2024-01-31</exec-date>
+         <type>Naliczenie odsetek</type>
+         <description>KAPITALIZACJA ODSETEK</description>
+         <amount curr="DKK">+0.01</amount>
+         <ending-balance curr="DKK">+1102.84</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-01-30</order-date>
+         <exec-date>2024-01-30</exec-date>
+         <type>Zobowiązania Publiczno Prawne</type>
+         <description>Rachunek odbiorcy : DK6502164069172229 Nazwa odbiorcy :  POWSZECHNA KASA OSZCZĘDNOŚCI BANK P OLSKI S.A. UL.PU Adres odbiorcy :  ŁAWSKA 15 00-975 WARSZAWA Tytuł :  ZALICZKA NA PODATEK I UBEZP. Kwota w walucie oryginalnej : 87.79 Kurs przewalutowania : 0.5856 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR24SP01219839DR</description>
+         <amount curr="DKK">-149.91</amount>
+         <ending-balance curr="DKK">+1102.83</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-01-30</order-date>
+         <exec-date>2024-01-30</exec-date>
+         <type>Opłata</type>
+         <description>KOSZTY SR24SP01219839DR</description>
+         <amount curr="DKK">-44.39</amount>
+         <ending-balance curr="DKK">+1252.74</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2024-01-30</order-date>
+         <exec-date>2024-01-30</exec-date>
+         <type>Przelew zagraniczny i walutowy</type>
+         <description>Rachunek nadawcy : DK6502164069172229 Nazwa nadawcy :  UDBETALING DANMARK KONGENS VENGE 8 DK-3400 HILLER Adres nadawcy :  OD Tytuł :  UDBETALING VIA NEMKONTO VEDRORENDE SOCIAL PENSION (FOLKEPENSION M.M.) Kwota w walucie oryginalnej : 717.09 Kurs przewalutowania : 1.0000 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR24SP01219839DR</description>
+         <amount curr="DKK">+717.09</amount>
+         <ending-balance curr="DKK">+1297.13</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-12-28</order-date>
+         <exec-date>2023-12-28</exec-date>
+         <type>Zobowiązania Publiczno Prawne</type>
+         <description>Rachunek odbiorcy : DK6502164069172229 Nazwa odbiorcy :  POWSZECHNA KASA OSZCZĘDNOŚCI BANK P OLSKI S.A. UL.PU Adres odbiorcy :  ŁAWSKA 15 00-975 WARSZAWA Tytuł :  ZALICZKA NA PODATEK I UBEZP. Kwota w walucie oryginalnej : 96.31 Kurs przewalutowania : 0.5809 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR23SP17000103DR</description>
+         <amount curr="DKK">-165.79</amount>
+         <ending-balance curr="DKK">+580.04</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-12-28</order-date>
+         <exec-date>2023-12-28</exec-date>
+         <type>Opłata</type>
+         <description>KOSZTY SR23SP17000103DR</description>
+         <amount curr="DKK">-44.76</amount>
+         <ending-balance curr="DKK">+745.83</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-12-28</order-date>
+         <exec-date>2023-12-28</exec-date>
+         <type>Przelew zagraniczny i walutowy</type>
+         <description>Rachunek nadawcy : DK6502164069172229 Nazwa nadawcy :  UDBETALING DANMARK KONGENS VENGE 8 DK-3400 HILLER Adres nadawcy :  OD Tytuł :  UDBETALING VIA NEMKONTO VEDRORENDE SOCIAL PENSION (FOLKEPENSION M.M.) Kwota w walucie oryginalnej : 790.09 Kurs przewalutowania : 1.0000 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR23SP17000103DR</description>
+         <amount curr="DKK">+790.09</amount>
+         <ending-balance curr="DKK">+790.59</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-11-30</order-date>
+         <exec-date>2023-11-30</exec-date>
+         <type>WYMIANA W KANTORZE - OBCIĄŻENIE</type>
+         <description>Rachunek odbiorcy : 19102024720000660203729605 Nazwa odbiorcy :  RYSZARD WIESŁAW CZEKAJ Adres odbiorcy :  UL. PLAC ZWYCIĘSTWA 8 M.24 44-300 WODZISŁAW ŚLĄSKI Tytuł :  FX46805710 DKK/PLN 0.5781 335,30 PLN -580,00 DKK Referencje własne zleceniodawcy : 46805710</description>
+         <amount curr="DKK">-580.00</amount>
+         <ending-balance curr="DKK">+0.50</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-11-29</order-date>
+         <exec-date>2023-11-29</exec-date>
+         <type>Zobowiązania Publiczno Prawne</type>
+         <description>Rachunek odbiorcy : DK6502164069172229 Nazwa odbiorcy :  POWSZECHNA KASA OSZCZĘDNOŚCI BANK P OLSKI S.A. UL.PU Adres odbiorcy :  ŁAWSKA 15 00-975 WARSZAWA Tytuł :  ZALICZKA NA PODATEK I UBEZP. Kwota w walucie oryginalnej : 96.53 Kurs przewalutowania : 0.5840 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR23SP15493438DR</description>
+         <amount curr="DKK">-165.29</amount>
+         <ending-balance curr="DKK">+580.50</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-11-29</order-date>
+         <exec-date>2023-11-29</exec-date>
+         <type>Opłata</type>
+         <description>KOSZTY SR23SP15493438DR</description>
+         <amount curr="DKK">-44.52</amount>
+         <ending-balance curr="DKK">+745.79</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-11-29</order-date>
+         <exec-date>2023-11-29</exec-date>
+         <type>Przelew zagraniczny i walutowy</type>
+         <description>Rachunek nadawcy : DK6502164069172229 Nazwa nadawcy :  UDBETALING DANMARK KONGENS VENGE 8 DK-3400 HILLER Adres nadawcy :  OD Tytuł :  UDBETALING VIA NEMKONTO VEDRORENDE SOCIAL PENSION (FOLKEPENSION M.M.) Kwota w walucie oryginalnej : 790.09 Kurs przewalutowania : 1.0000 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR23SP15493438DR</description>
+         <amount curr="DKK">+790.09</amount>
+         <ending-balance curr="DKK">+790.31</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-10-31</order-date>
+         <exec-date>2023-10-31</exec-date>
+         <type>WYMIANA W KANTORZE - OBCIĄŻENIE</type>
+         <description>Rachunek odbiorcy : 19102024720000660203729605 Nazwa odbiorcy :  RYSZARD WIESŁAW CZEKAJ Adres odbiorcy :  UL. PLAC ZWYCIĘSTWA 8 M.24 44-300 WODZISŁAW ŚLĄSKI Tytuł :  FX45212752 DKK/PLN 0.5904 342,43 PLN -580,00 DKK Referencje własne zleceniodawcy : 45212752</description>
+         <amount curr="DKK">-580.00</amount>
+         <ending-balance curr="DKK">+0.22</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-10-30</order-date>
+         <exec-date>2023-10-30</exec-date>
+         <type>Zobowiązania Publiczno Prawne</type>
+         <description>Rachunek odbiorcy : DK6502164069172229 Nazwa odbiorcy :  POWSZECHNA KASA OSZCZĘDNOŚCI BANK P OLSKI S.A. UL.PU Adres odbiorcy :  ŁAWSKA 15 00-975 WARSZAWA Tytuł :  ZALICZKA NA PODATEK I UBEZP. Kwota w walucie oryginalnej : 99.54 Kurs przewalutowania : 0.5982 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR23SP13947720DR</description>
+         <amount curr="DKK">-166.40</amount>
+         <ending-balance curr="DKK">+580.22</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-10-30</order-date>
+         <exec-date>2023-10-30</exec-date>
+         <type>Opłata</type>
+         <description>KOSZTY SR23SP13947720DR</description>
+         <amount curr="DKK">-43.47</amount>
+         <ending-balance curr="DKK">+746.62</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-10-30</order-date>
+         <exec-date>2023-10-30</exec-date>
+         <type>Przelew zagraniczny i walutowy</type>
+         <description>Rachunek nadawcy : DK6502164069172229 Nazwa nadawcy :  UDBETALING DANMARK KONGENS VENGE 8 DK-3400 HILLER Adres nadawcy :  OD Tytuł :  UDBETALING VIA NEMKONTO VEDRORENDE SOCIAL PENSION (FOLKEPENSION M.M.) Kwota w walucie oryginalnej : 790.09 Kurs przewalutowania : 1.0000 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR23SP13947720DR</description>
+         <amount curr="DKK">+790.09</amount>
+         <ending-balance curr="DKK">+790.09</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-10-09</order-date>
+         <exec-date>2023-10-09</exec-date>
+         <type>WYMIANA W KANTORZE - OBCIĄŻENIE</type>
+         <description>Rachunek odbiorcy : 19102024720000660203729605 Nazwa odbiorcy :  RYSZARD WIESŁAW CZEKAJ Adres odbiorcy :  UL. PLAC ZWYCIĘSTWA 8 M.24 44-300 WODZISŁAW ŚLĄSKI Tytuł :  FX44088499 DKK/PLN 0.6103 1 220,60 PLN -2 000,00 DKK Referencje własne zleceniodawcy : 44088499</description>
+         <amount curr="DKK">-2000.00</amount>
+         <ending-balance curr="DKK">+0.00</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-10-01</order-date>
+         <exec-date>2023-10-01</exec-date>
+         <type>WYMIANA W KANTORZE - OBCIĄŻENIE</type>
+         <description>Rachunek odbiorcy : 19102024720000660203729605 Nazwa odbiorcy :  RYSZARD WIESŁAW CZEKAJ Adres odbiorcy :  UL. PLAC ZWYCIĘSTWA 8 M.24 44-300 WODZISŁAW ŚLĄSKI Tytuł :  FX43717651 DKK/PLN 0.6131 356,45 PLN -581,39 DKK Referencje własne zleceniodawcy : 43717651</description>
+         <amount curr="DKK">-581.39</amount>
+         <ending-balance curr="DKK">+2000.00</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-10-01</order-date>
+         <exec-date>2023-09-29</exec-date>
+         <type>Podatek od odsetek</type>
+         <description>PODATEK OD ODSETEK KAPITAŁOWYCH</description>
+         <amount curr="DKK">-0.02</amount>
+         <ending-balance curr="DKK">+2581.39</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-10-01</order-date>
+         <exec-date>2023-09-29</exec-date>
+         <type>Naliczenie odsetek</type>
+         <description>KAPITALIZACJA ODSETEK</description>
+         <amount curr="DKK">+0.02</amount>
+         <ending-balance curr="DKK">+2581.41</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-09-28</order-date>
+         <exec-date>2023-09-28</exec-date>
+         <type>Zobowiązania Publiczno Prawne</type>
+         <description>Rachunek odbiorcy : DK6502164069172229 Nazwa odbiorcy :  POWSZECHNA KASA OSZCZĘDNOŚCI BANK P OLSKI S.A. UL.PU Adres odbiorcy :  ŁAWSKA 15 00-975 WARSZAWA Tytuł :  ZALICZKA NA PODATEK I UBEZP. Kwota w walucie oryginalnej : 102.93 Kurs przewalutowania : 0.6178 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR23SP12411900DR</description>
+         <amount curr="DKK">-166.61</amount>
+         <ending-balance curr="DKK">+2581.39</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-09-28</order-date>
+         <exec-date>2023-09-28</exec-date>
+         <type>Opłata</type>
+         <description>KOSZTY SR23SP12411900DR</description>
+         <amount curr="DKK">-42.09</amount>
+         <ending-balance curr="DKK">+2748.00</ending-balance>
+      </operation>
+      <operation>
+         <order-date>2023-09-28</order-date>
+         <exec-date>2023-09-28</exec-date>
+         <type>Przelew zagraniczny i walutowy</type>
+         <description>Rachunek nadawcy : DK6502164069172229 Nazwa nadawcy :  UDBETALING DANMARK KONGENS VENGE 8 DK-3400 HILLER Adres nadawcy :  OD Tytuł :  UDBETALING VIA NEMKONTO VEDRORENDE SOCIAL PENSION (FOLKEPENSION M.M.) Kwota w walucie oryginalnej : 790.09 Kurs przewalutowania : 1.0000 Instrukcja kosztowa : SHA Referencje polecenia wypłaty : SR23SP12411900DR</description>
+         <amount curr="DKK">+790.09</amount>
+         <ending-balance curr="DKK">+2790.09</ending-balance>
+      </operation>
+   </operations>
+</account-history>
